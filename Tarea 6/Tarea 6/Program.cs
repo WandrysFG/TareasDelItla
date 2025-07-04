@@ -16,8 +16,8 @@ namespace ContactesApp
             {
                 try
                 {
-                    Console.Write("1. Agregar Contacto  ");
-                    Console.Write("2. Ver Contactos  ");
+                    Console.WriteLine("1. Agregar Contacto  ");
+                    Console.WriteLine("2. Ver Contactos  ");
                     Console.Write("3. Buscar Contacto  ");
                     Console.Write("4. Modificar Contacto  ");
                     Console.Write("5. Eliminar Contacto  ");
